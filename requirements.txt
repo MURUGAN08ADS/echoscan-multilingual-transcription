@@ -1,0 +1,25 @@
+# Audio Processing
+openai-whisper>=20230314
+
+# Translation
+googletrans==4.0.0rc1
+deep-translator>=1.11.4
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.1
+pydub>=0.25.1
+
+# Natural Language Processing
+nltk>=3.8
+spacy>=3.7.0
+
+# API Clients (Optional - Choose based on your preferred services)
+# google-cloud-speech>=2.20.0
+# google-cloud-translate>=3.11.0
+# azure-cognitiveservices-speech>=1.31.0
+# openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0

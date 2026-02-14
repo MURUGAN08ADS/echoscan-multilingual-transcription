@@ -1,0 +1,50 @@
+{"target_language": "Tamil",
+  "audio_settings": {
+    "sample_rate": 16000,
+    "channels": 1,
+    "format": "wav"
+  },
+  "category_keywords": {
+    "urgent": [
+      "urgent",
+      "asap",
+      "immediately",
+      "critical",
+      "deadline",
+      "emergency",
+      "priority"
+    ],
+    "actionable": [
+      "need to",
+      "must",
+      "should",
+      "task",
+      "todo",
+      "action",
+      "complete",
+      "finish",
+      "follow up"
+    ],
+    "filler": [
+      "um",
+      "uh",
+      "you know",
+      "like",
+      "so",
+      "well",
+      "actually",
+      "basically"
+    ]
+  },
+  "api_keys": {
+    "openai_api_key": "YOUR_OPENAI_API_KEY",
+    "google_api_key": "YOUR_GOOGLE_API_KEY",
+    "azure_speech_key": "YOUR_AZURE_SPEECH_KEY",
+    "deepl_api_key": "YOUR_DEEPL_API_KEY"
+  },
+  "output_settings": {
+    "include_timestamps": true,
+    "min_segment_length": 2.0,
+    "max_segment_length": 30.0
+  }
+}
